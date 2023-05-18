@@ -7,7 +7,8 @@
 #include <string.h>
 #include <stdlib.h>
 #include <utime.h>
-
+#include <pwd.h>
+#include <grp.h>
 
 #define CF "-cf"
 #define RF "-rf"
